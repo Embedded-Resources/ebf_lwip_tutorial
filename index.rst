@@ -31,11 +31,34 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 投稿精选
-   :titlesonly:
+   :caption: LwIP应用开发实战指南—基于STM32
+   :numbered:
 
-   submission/rst-testfile
-
+   doc/chapter1/chapter1
+   doc/chapter2/chapter2
+   doc/chapter3/chapter3
+   doc/chapter4/chapter4
+   doc/chapter5/chapter5
+   doc/chapter6/chapter6
+   doc/chapter7/chapter7
+   doc/chapter8/chapter8
+   doc/chapter9/chapter9
+   doc/chapter10/chapter10
+   doc/chapter11/chapter11
+   doc/chapter12/chapter12
+   doc/chapter13/chapter13
+   doc/chapter14/chapter14
+   doc/chapter15/chapter15
+   doc/chapter16/chapter16
+   doc/chapter17/chapter17
+   doc/chapter18/chapter18
+   doc/chapter19/chapter19
+   doc/chapter20/chapter20
+   doc/chapter21/chapter21
+   doc/chapter22/chapter22
+   doc/chapter23/chapter23
+   doc/chapter24/chapter24
+   doc/connect us/connect us
 
 .. toctree::
    :maxdepth: 1
