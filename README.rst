@@ -8,7 +8,7 @@
 - github仓库地址：https://github.com/Embedfire-lwip/ebf_lwip_tutorial
 - gitee 仓库地址：待添加
 
-点击右侧链接可在线阅读本项目文档：《 `野火LwIP应用开发实战指南：基于STM32 <https://emxgui-api-manal.readthedocs.io>`_ 》
+点击右侧链接可在线阅读本项目文档：《 `野火LwIP应用开发实战指南：基于STM32 <https://ebf_lwip_tutorial.readthedocs.io>`_ 》
 
 本书围绕LwIP 2.1.2版本源码进行讲解，讲解TCP/IP网络协议栈的基本知识，带领读者走入网络的世界。
 无论你是学生、嵌入式开发者亦或者是物联网开发者，都可以从本书中学习到网络的知识，了解网络协议栈的处理的思想，本书将深入分析网络协议栈的原理与实现过程，如ARP、IP、ICMP、TCP、UDP、HTTP、MQTT等协议。本书还将深入讲解LwIP中内存管理、pbuf数据包、网卡接口管理的原理与实现，并详细介绍LwIP的移植过程，读者可以将其移植到无操作系统/有操作系统中的环境中使用。
